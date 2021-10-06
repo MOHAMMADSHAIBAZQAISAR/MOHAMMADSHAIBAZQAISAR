@@ -1,3 +1,16 @@
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;Mohammad+Shaibaz+Qaisar+Here...;It's+great+connecting+with+you!&center=true&size=22">
+  </a>
+</h1>
+
+<p align="center">
+
+   <a href="https://www.linkedin.com/in/mohammad-shaibaz-qaisar-597103219" alt="LINKEDIN Follow">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ </a><br><br>
+
+
 <h1 align="center">Hi 👋, I'm MOHAMMAD SHAIBAZ QAISAR</h1>
 <h3 align="center">I'm passionate towards Software Development and programming..</h3>
 
@@ -34,3 +47,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadshaibazqaisar&show_icons=true&locale=en" alt="mohammadshaibazqaisar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadshaibazqaisar&" alt="mohammadshaibazqaisar" /></p>
+
+
+ <img src="https://activity-graph.herokuapp.com/graph?username=MOHAMMADSHAIBAZQAISAR&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
