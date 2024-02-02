@@ -18,15 +18,11 @@
 
 <p align="left"> <a href="https://twitter.com/shaibazqaisar" target="blank"><img src="https://img.shields.io/twitter/follow/shaibazqaisar?logo=twitter&style=for-the-badge" alt="shaibazqaisar" /></a> </p>
 
-- 🔭 I'm currently pursuing my **btech 2nd year in JNTUH university**
+- 🔭 I'm currently pursuing my **btech 4th year in JNTUH university**
 
-- 🌱 I’m currently learning **Software Development,Competitve programming**
+- 🌱 I’m currently learning **React**
 
 - 🤝 I’m looking for help with **every technology lover outthere..**
-
-- 📫 How to reach me **mohammad.shaibaz.qaisar@4gmail.com**
-
-- ⚡ Fun fact **I love travelling..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
